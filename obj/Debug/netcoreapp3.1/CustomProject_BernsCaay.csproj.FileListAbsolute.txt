@@ -1,0 +1,16 @@
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\bin\Debug\netcoreapp3.1\CustomProject_BernsCaay.exe
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\bin\Debug\netcoreapp3.1\CustomProject_BernsCaay.deps.json
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\bin\Debug\netcoreapp3.1\CustomProject_BernsCaay.runtimeconfig.json
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\bin\Debug\netcoreapp3.1\CustomProject_BernsCaay.runtimeconfig.dev.json
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\bin\Debug\netcoreapp3.1\CustomProject_BernsCaay.dll
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\bin\Debug\netcoreapp3.1\CustomProject_BernsCaay.pdb
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\obj\Debug\netcoreapp3.1\CustomProject_BernsCaay.csproj.AssemblyReference.cache
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\obj\Debug\netcoreapp3.1\CustomProject_BernsCaay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\obj\Debug\netcoreapp3.1\CustomProject_BernsCaay.AssemblyInfoInputs.cache
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\obj\Debug\netcoreapp3.1\CustomProject_BernsCaay.AssemblyInfo.cs
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\obj\Debug\netcoreapp3.1\CustomProject_BernsCaay.csproj.CoreCompileInputs.cache
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\obj\Debug\netcoreapp3.1\CustomProject_BernsCaay.dll
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\obj\Debug\netcoreapp3.1\CustomProject_BernsCaay.pdb
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\obj\Debug\netcoreapp3.1\CustomProject_BernsCaay.genruntimeconfig.cache
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\BV465FT\source\repos\CustomProject_BernsCaay\obj\Debug\netcoreapp3.1\CustomProject_BernsCaay.csproj.CopyComplete
